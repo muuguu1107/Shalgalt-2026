@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+results.xlsx
+results.xlsx.lock
+.DS_Store
