@@ -1,0 +1,7 @@
+﻿services:
+  - type: web
+    name: shalgalt-2026
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    plan: free

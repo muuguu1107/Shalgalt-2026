@@ -1,0 +1,5 @@
+Flask
+gunicorn
+openpyxl
+filelock
+python-dotenv
